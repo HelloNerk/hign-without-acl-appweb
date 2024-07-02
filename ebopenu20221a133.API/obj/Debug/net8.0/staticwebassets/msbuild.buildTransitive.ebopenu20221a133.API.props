@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ebopenu20221a133.API.props" />
+</Project>

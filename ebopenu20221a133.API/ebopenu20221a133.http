@@ -1,0 +1,6 @@
+@ebopenu20221a133_HostAddress = http://localhost:5007
+
+GET {{ebopenu20221a133_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
